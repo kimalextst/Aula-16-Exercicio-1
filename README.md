@@ -1,6 +1,6 @@
-# Aula-16-Exercicio-1
+# Aula-17-Exercicio-1
 
-/*Crie uma classe Funcionario que obedeça à descrição abaixo:
+Crie uma classe Funcionario que obedeça à descrição abaixo:
 a. A classe possui os atributos nome, sobrenome,
 horasTrabalhadas e valorPorHora
 
@@ -28,4 +28,4 @@ incrementarHoras.
 - Chame novamente o método calcularSalario.
 - Crie um ArrayList e instancie outros 9 funcionários com diferentes
 atributos a esse ArrayList
-- Exiba os valores do ArrayList criado*/
+- Exiba os valores do ArrayList criado
